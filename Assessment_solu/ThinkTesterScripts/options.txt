@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Assessment\ThinkTesterScripts
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\loadrunnerscripts\assessment\thinktesterscripts\\logfile.log
+d:\loadrunnerscripts\assessment\thinktesterscripts\\combined_ThinkTesterScripts.c
+d:\loadrunnerscripts\assessment\thinktesterscripts\\pre_cci.c

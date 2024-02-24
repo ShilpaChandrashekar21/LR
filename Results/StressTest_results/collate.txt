@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=D:\LoadRunnerScripts\Assessment\Controller_results\Stresstest.lrs
+Completed=0
