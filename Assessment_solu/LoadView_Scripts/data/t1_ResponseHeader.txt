@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 563
+Content-Type: application/json; charset=utf-8
+Content-Security-Policy: base-uri 'self';block-all-mixed-content;default-src 'self';img-src 'self';object-src 'none';script-src 'none';style-src 'self';upgrade-insecure-requests;
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: BA87DAEF6B8D46D5AE6B225F90D6A761 Ref B: MAA02EDGE0317 Ref C: 2024-02-24T04:52:58Z
+Date: Sat, 24 Feb 2024 04:52:57 GMT
+

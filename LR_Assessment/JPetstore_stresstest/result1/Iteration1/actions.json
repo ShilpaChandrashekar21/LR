@@ -1,0 +1,80 @@
+[
+    {
+        "actionName": "Login",
+        "steps": [
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: signon",
+                "infFile": "t2.inf",
+                "time": 1708943186386
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "category_selection",
+        "steps": [
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: DOGS",
+                "infFile": "t3.inf",
+                "time": 1708943187445
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "product_selection",
+        "steps": [
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: K9-BD-01",
+                "infFile": "t4.inf",
+                "time": 1708943187954
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "cart",
+        "steps": [
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: addItemToCart",
+                "infFile": "t5.inf",
+                "time": 1708943189517
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "checkout",
+        "steps": [
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: newOrderForm",
+                "infFile": "t6.inf",
+                "time": 1708943190532
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "order",
+        "steps": [
+            {
+                "stepId": "STEP7",
+                "stepName": "Submit Data: newOrder",
+                "infFile": "t7.inf",
+                "time": 1708943191162
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Submit Data: submitOrder",
+                "infFile": "t8.inf",
+                "time": 1708943192172
+            }
+        ],
+        "transactions": []
+    }
+]

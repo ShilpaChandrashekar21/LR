@@ -1,0 +1,16 @@
+[t4]
+SnapshotXmlFile=snapshot_4.xml
+ContentType=application/xml
+StepName=Url: crx
+Total=2
+FileName1=t4.xml
+FileName2=t2_1_SSR-extension.UNK
+RequestHeaderFile=t4_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t4_ResponseHeader.txt
+RawStepEndTime=1708756911161
+RawStepName=crx
+RequestBodyFile=t4_RequestBody.txt
+RawStepStartTime=1708756911064
+URL1=https://edge.microsoft.com/extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=121.0.2277.128&lang=en-US&acceptformat=crx3,puff&x=id=jmjflgjpcpepeafmmgdpfkogkghcpiha&v=1.2.1&installedby=other&uc
+URL2=https://ntp.msn.com/bundles/v1/edgeChromium/latest/SSR-extension.889768d4c088b9acdb97.js

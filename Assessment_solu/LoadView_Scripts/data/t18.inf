@@ -1,0 +1,15 @@
+[t18]
+FileName1=t18.txt
+URL1=https://stats.g.doubleclick.net/g/collect?v=2&tid=G-4GPKJR6BK2&cid=37313771.1708749727&gtm=45je42l0v889420970z8868681018za220&aip=1&dma=0&gcd=13l3l3l3l1&npa=0
+Total=3
+RequestHeaderFile=t18_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t18_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_18.xml
+FileName2=t18_ga-audiences.gif
+URL2=https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-4GPKJR6BK2&cid=37313771.1708749727&gtm=45je42l0v889420970z8868681018za220&aip=1&dma=0&gcd=13l3l3l3l1&npa=0&z=722476409
+FileName3=t18_recorder.html
+URL3=https://web-sdk.smartlook.com/recorder.js
+[ProtocolInfo]
+ProtocolId=QTWeb

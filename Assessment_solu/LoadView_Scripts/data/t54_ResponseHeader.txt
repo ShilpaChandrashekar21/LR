@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Sat, 24 Feb 2024 05:03:53 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 220
+Connection: keep-alive
+Access-Control-Allow-Headers: Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization, accept, origin, Cache-Control, X-Requested-With
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Origin: *
+

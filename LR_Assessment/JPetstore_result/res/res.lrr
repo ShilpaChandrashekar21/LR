@@ -1,0 +1,33 @@
+[Scenario]
+Product=LoadRunner Controller
+Version=2023.0.0.0
+Path=Scenario1
+Subject=
+Result_file=D:\LoadRunnerScripts\Assessment\LR_Assessment\JPetstore_result\res\res.lrr
+Description=
+ResultName=res
+Time_Zone=-19800
+Start_time=1708941907
+Daylight_Bias=0
+Stop_time=1708942180
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+[Data Collection]
+FullData=1
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Schedule 1
+Mode=Scenario Scheduling
+Scenario Duration=Start 10 Vusers simultaneously; Run for 00:03:00 (HH:MM:SS); Stop all Vusers: 1 every 00:00:10 (HH:MM:SS)
+Load Behavior=Initialize each Vuser just before it runs
+Global Schedule=ST10;R180;SP10_1E10;
+[Scripts]
+JPetstore_scripts=D:\LoadRunnerScripts\Assessment\LR_Assessment\JPetstore_solution\JPetstore_scripts\JPetstore_scripts.usr
+[Scripts_types]
+JPetstore_scripts=Multi+QTWeb

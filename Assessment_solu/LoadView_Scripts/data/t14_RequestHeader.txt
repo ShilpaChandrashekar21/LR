@@ -1,0 +1,21 @@
+GET /service/news/feed/pages/ntp?User=m-3FB288A77D7E6FC13A379A107C2C6E33&activityId=03268357-B8FD-48AD-A89F-9D2048D6B1BB&apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&audienceMode=adult&caller=bgtask&cm=en-in&column=c3&contentType=article,video,slideshow,webcontent&dhp=1&duotone=true&edgExpMask=131072&infopaneCount=17&it=app&memory=8&newsSkip=0&newsTop=48&ocid=anaheim-ntp-feeds&overlay=0&pgc=41&prerender=1&promotion=1697179646278_l_1_2&scn=APP_ANON&timeOut=2000&vpSize=1232x572&wposchema=byregion HTTP/1.1
+Host: assets.msn.com
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"
+Accept: */*
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+sec-ch-ua-platform: "Windows"
+Origin: https://ntp.msn.com
+X-Edge-Shopping-Flag: 1
+Sec-MS-GEC: 4213BCC40069A0A4E8CE7276084076070701EF169C6AA24DA0210C6B96614FA1
+Sec-MS-GEC-Version: 1-121.0.2277.128
+X-Client-Data: eyIxIjoiMTUiLCIxMCI6IlwibytLcmZ4UVhyOUExNE9nRDBNa3VKS0ttK2tXa1ZYU3kzZUMzNStGampUMD1cIiIsIjIiOiIxIiwiMyI6IjAiLCI0IjoiLTY5MjY2NTgzNjMzNDA0OTQxNzciLCI1IjoiXCI4cnFkd2VRTDdhMmtMNjJmWUlOaDRsQmx6VnpOQzJyaHc0K0tkRkZod05rPVwiIiwiNiI6InN0YWJsZSIsIjciOiI5NDQ4OTI4MDUxMyIsIjkiOiJkZXNrdG9wIn0=
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ntp.msn.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: USRLOC=CLOC=LAT=12.9378|LON=77.547|A=10476|TS=240224042455|SRC=I&BID=MjQwMjI0MDk1NDU1XzQ2YzJjNGFkMGMyYTllYWFkYmE1OTNjZjRhNjI1NGI2MTYyNDYxZWZlMTcxZmJiN2RkMjAwZGQ0MmRhNDZmOTE=; _EDGE_V=1; MUID=3FB288A77D7E6FC13A379A107C2C6E33; MUIDB=3FB288A77D7E6FC13A379A107C2C6E33; _SS=SID=00; _C_ETH=1; _EDGE_S=SID=0EE3F89FD73969BA3793ECB0D612686E&mkt=en-in&ui=en-us
+

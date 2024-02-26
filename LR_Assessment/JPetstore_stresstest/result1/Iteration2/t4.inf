@@ -1,0 +1,13 @@
+[t4]
+SnapshotXmlFile=snapshot_3.xml
+ContentType=text/html
+StepName=Url: K9-BD-01
+Total=1
+FileName1=t4.html
+RequestHeaderFile=t4_RequestHeader.txt
+ResponseHeaderFile=t4_ResponseHeader.txt
+RawStepEndTime=1708943196907
+RawStepName=K9-BD-01
+RequestBodyFile=t4_RequestBody.txt
+RawStepStartTime=1708943196543
+URL1=https://jpetstore.aspectran.com/catalog/products/K9-BD-01

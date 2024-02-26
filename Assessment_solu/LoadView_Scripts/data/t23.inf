@@ -1,0 +1,11 @@
+[t23]
+FileName1=t23.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=6:MMB5JnHpicft0US9P-mpZ6E27Qm6ZvINfCQCHfpARoc&cup2hreq=7a2035c9e48669d077e42560474b0694e56ad90f6514b0cc9e32a55e31021b5e
+Total=1
+RequestHeaderFile=t23_RequestHeader.txt
+RequestBodyFile=t23_RequestBody.txt
+ResponseHeaderFile=t23_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_23.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

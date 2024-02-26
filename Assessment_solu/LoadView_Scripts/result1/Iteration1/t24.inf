@@ -1,0 +1,18 @@
+[t24]
+FileName2=t7_2_favicon.ico
+RawStepEndTime=1708756918490
+RequestBodyFile=t24_RequestBody.txt
+RawStepName=request
+ContentType=application/json
+URL1=https://calendly.com/api/booking/request
+URL2=https://assets.msn.com/statics/icons/favicon.ico
+URL3=https://ntp.msn.com/bundles/v1/edgeChromium/latest/SSR-extension.889768d4c088b9acdb97.js
+ResponseHeaderFile=t24_ResponseHeader.txt
+SnapshotXmlFile=snapshot_24.xml
+RequestHeaderFile=t24_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1708756918142
+Total=3
+StepName=Url: request
+FileName1=t24.json
+FileName3=t2_1_SSR-extension.UNK

@@ -1,0 +1,11 @@
+[t49]
+FileName1=t49_range.json
+URL1=https://calendly.com/api/booking/event_types/6f018153-14f4-4cf0-848a-1c3472da7aae/calendar/range?timezone=Asia%2FCalcutta&diagnostics=false&range_start=2024-03-08&range_end=2024-03-14&embed_domain=www.loadview-testing.com&embed_type=Inline
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_49.xml
+RequestHeaderFile=t49_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t49_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

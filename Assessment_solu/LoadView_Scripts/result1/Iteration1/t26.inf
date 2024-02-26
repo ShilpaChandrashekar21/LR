@@ -1,0 +1,18 @@
+[t26]
+FileName2=t7_2_favicon.ico
+RawStepEndTime=1708756919709
+RequestBodyFile=t26_RequestBody.txt
+RawStepName=range
+ContentType=application/json
+URL1=https://calendly.com/api/booking/event_types/6f018153-14f4-4cf0-848a-1c3472da7aae/calendar/range?timezone=Asia/Calcutta&diagnostics=false&range_start=2024-02-24&range_end=2024-02-29&embed_domain=www.loadview-testing.com&embed_type=Inline
+URL2=https://assets.msn.com/statics/icons/favicon.ico
+URL3=https://ntp.msn.com/bundles/v1/edgeChromium/latest/SSR-extension.889768d4c088b9acdb97.js
+ResponseHeaderFile=t26_ResponseHeader.txt
+SnapshotXmlFile=snapshot_26.xml
+RequestHeaderFile=t26_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1708756918997
+Total=3
+StepName=Url: range
+FileName1=t26.json
+FileName3=t2_1_SSR-extension.UNK

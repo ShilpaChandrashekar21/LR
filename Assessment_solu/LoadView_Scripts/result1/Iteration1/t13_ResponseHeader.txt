@@ -1,0 +1,34 @@
+HTTP/2.0 200
+Status: 200
+content-type: application/json; charset=utf-8
+content-encoding: gzip
+ddd-authenticatedwithjwtflow: False
+ddd-usertype: AnonymousMuid
+ddd-activityid: 65d99244-5441-4fc5-b9aa-9f7916beda0e
+ddd-strategyexecutionlatency: 00:00:00.0140685
+ddd-debugid: 65d99244-5441-4fc5-b9aa-9f7916beda0e|2024-02-24T06:52:52.8753974Z|fabric_msn|KOC|News_437
+ddd-auth-features: MuidStateOrigin:MuidFromCookie
+onewebservicelatency: 16
+x-msedge-responseinfo: 16
+x-ceto-ref: 65d992448e0d401c9d838cf5e1de1e5d|AFD:65d992448e0d401c9d838cf5e1de1e5d|2024-02-24T06:52:52.857Z
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+x-msedge-ref: Ref A: 3FDB60C7A7B44D38A06B54F856D5AA4C Ref B: SIN221080712021 Ref C: 2024-02-24T06:52:52Z
+expires: Sat, 24 Feb 2024 06:52:52 GMT
+date: Sat, 24 Feb 2024 06:52:52 GMT
+content-length: 166
+set-cookie: _C_ETH=1; domain=.msn.com; path=/; secure; httponly
+set-cookie: _C_Auth=
+set-cookie: _EDGE_S=SID=1B9EED2E20A26BCE04CAF90121746A93&mkt=en-in&ui=en-us; domain=.msn.com; path=/; httponly
+akamai-request-bc: [a=23.41.186.117,b=362030085,c=g,n=IN_TN_CHENNAI,o=20940],[a=131.253.33.203,c=o]
+server-timing: clientrtt; dur=15, clienttt; dur=126, origin; dur=126 , cdntime; dur=0
+akamai-cache-status: NotCacheable from child
+akamai-server-ip: 23.41.186.117
+akamai-request-id: 15942405
+x-as-suppresssetcookie: 1
+cache-control: private, max-age=0
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":0.1}
+timing-allow-origin: *
+akamai-grn: 0.75ba2917.1708757572.15942405
+vary: Origin
+

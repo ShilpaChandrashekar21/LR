@@ -1,0 +1,2 @@
+"{\"event\":\"loader_loaded\",\"widget_id\":\"5krV1CifaF\",\"t\":1708749725821,\"param1\":\"117"
+".3.0\",\"shard\":\"main\"}"

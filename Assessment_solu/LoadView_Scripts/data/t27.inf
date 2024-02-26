@@ -1,0 +1,13 @@
+[t27]
+FileName1=t27.json
+URL1=https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3
+Total=2
+RequestHeaderFile=t27_RequestHeader.txt
+RequestBodyFile=t27_RequestBody.txt
+ResponseHeaderFile=t27_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_27.xml
+FileName2=t27_widget.html
+URL2=https://assets.calendly.com/assets/external/widget.js
+[ProtocolInfo]
+ProtocolId=QTWeb

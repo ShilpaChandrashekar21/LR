@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Max-Age: 1728000
+Access-Control-Allow-Origin: https://www.loadview-testing.com
+Access-Control-Expose-Headers: X-Geoip, X-Botmode
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: frame-ancestors 'none';
+Content-Type: application/json; charset=utf-8
+Pragma: no-cache
+Server: foxy/3.2
+X-Botmode: no
+X-Frame-Options: DENY
+X-Geoip: IN;TN;Chennai
+Date: Sat, 24 Feb 2024 04:53:09 GMT
+Content-Length: 149
+

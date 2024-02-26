@@ -1,0 +1,32 @@
+HTTP/2.0 200
+Status: 200
+content-length: 715
+content-type: application/json; charset=utf-8
+content-encoding: gzip
+last-modified: Tue, 26 Apr 2022 16:36:48 GMT
+etag: W/"5"
+server: Microsoft-HTTPAPI/2.0
+x-cms-documentstoragetier: Cache
+x-cms-documentid: BB1gzN7f
+x-cms-version: 1
+x-cms-state: Published
+x-cms-tenant: amp
+x-cms-type: provider
+x-cms-executiontimeinmilliseconds: 0
+appex-activity-id: 2901b848-facd-45c3-85b8-a55447f4d7c7
+x-trace-context: {"ActivityId":"2901b848-facd-45c3-85b8-a55447f4d7c7"}
+ms-cv: ikqgy4pJokaDBdfEwchLqQ.0
+x-cms-servicelocation: eastus:0
+cache-control: max-age=900
+date: Sat, 24 Feb 2024 06:52:51 GMT
+akamai-request-bc: [a=23.41.186.117,b=362028444,c=g,n=IN_TN_CHENNAI,o=20940]
+server-timing: clientrtt; dur=13, clienttt; dur=0, origin; dur=0 , cdntime; dur=0
+akamai-cache-status: Hit from child
+akamai-server-ip: 23.41.186.117
+akamai-request-id: 15941d9c
+access-control-allow-credentials: true
+access-control-allow-origin: https://ntp.msn.com
+timing-allow-origin: *
+akamai-grn: 0.75ba2917.1708757571.15941d9c
+vary: Origin
+

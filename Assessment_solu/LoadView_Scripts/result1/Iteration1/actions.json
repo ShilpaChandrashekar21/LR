@@ -1,0 +1,80 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP18",
+                "stepName": "Url: east",
+                "infFile": "t19.inf",
+                "time": 1708756916009
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Url: discovery-call",
+                "infFile": "t21.inf",
+                "time": 1708756917318
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Url: user",
+                "infFile": "t22.inf",
+                "time": 1708756917732
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Url: settings",
+                "infFile": "t23.inf",
+                "time": 1708756918139
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Url: request",
+                "infFile": "t24.inf",
+                "time": 1708756918552
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Url: experiments",
+                "infFile": "t25.inf",
+                "time": 1708756918994
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Url: range",
+                "infFile": "t26.inf",
+                "time": 1708756919723
+            },
+            {
+                "stepId": "STEP25",
+                "stepName": "Url: range_2",
+                "infFile": "t27.inf",
+                "time": 1708756920527
+            },
+            {
+                "stepId": "STEP26",
+                "stepName": "Url: range_3",
+                "infFile": "t28.inf",
+                "time": 1708756921297
+            },
+            {
+                "stepId": "STEP27",
+                "stepName": "Url: range_4",
+                "infFile": "t29.inf",
+                "time": 1708756922024
+            },
+            {
+                "stepId": "STEP28",
+                "stepName": "Url: range_5",
+                "infFile": "t30.inf",
+                "time": 1708756922764
+            },
+            {
+                "stepId": "STEP29",
+                "stepName": "Custom Request: invitees",
+                "infFile": "t31.inf",
+                "time": 1708756923451
+            }
+        ],
+        "transactions": []
+    }
+]

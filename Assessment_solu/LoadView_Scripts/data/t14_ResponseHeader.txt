@@ -1,0 +1,44 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Content-Encoding: gzip
+Access-Control-Allow-Headers: TicketType,RequestContinuationKey,AuthToken,Content-Type,x-client-activityid,ms-cv,OneSvc-Uni-Feat-Tun,signedInCookieName,muid,appid,User-Location,user-location,userauthtoken,usertickettype,sitename,s2sauthtoken,thumbprint,Authorization,Ent-Authorization,UserIdToken,DDD-TMPL,DDD-ActivityId,DDD-FeatureSet,DDD-Session-ID,Date,date,ads-referer,ads-referer,taboola-sessionId,taboola-sessionid,Akamai-Request-ID,Akamai-Server-IP,X-MSEdge-Ref,DDD-DebugId,s-xbox-token,OneWebServiceLatency,X-FD-Features,DDD-UserType,traceparent,Widgets,Muted,Velocity,DDD-Auth-Features
+Access-Control-Expose-Headers: TicketType,RequestContinuationKey,AuthToken,Content-Type,x-client-activityid,ms-cv,OneSvc-Uni-Feat-Tun,signedInCookieName,muid,appid,User-Location,user-location,userauthtoken,usertickettype,sitename,s2sauthtoken,thumbprint,Authorization,Ent-Authorization,UserIdToken,DDD-TMPL,DDD-ActivityId,DDD-FeatureSet,DDD-Session-ID,Date,date,ads-referer,ads-referer,taboola-sessionId,taboola-sessionid,Akamai-Request-ID,Akamai-Server-IP,X-MSEdge-Ref,DDD-DebugId,s-xbox-token,OneWebServiceLatency,X-FD-Features,DDD-UserType,traceparent,Widgets,Muted,Velocity,DDD-Auth-Features
+DDD-AuthenticatedWithJwtFlow: False
+DDD-UserType: AnonymousMuid
+DDD-TMPL: L2OneSvcUniFeatTun:;prg-show-bellcm-30d:1;tmpl-TravelDestinationCard:1;UTnegImpr;ULatLon12.95:77.61;com_topic_li_v2:1;MyFeed;DNN_country:;tmpl-newtech;triggercf_0_1min_mhot;user_cluster_v6:2024-02-22.62524#en-in;prg-wpo-tsclpinf:1;UserCohortByEngagement28d:2;triggercf_1_i2i_mhot_v1;TaggingUserActionSignal;GrayFanScore:0.0123;CGShowNews3:1;com_topic_li_v4:1;triggercf_lt_inc;eePosList:7;triggercf_2_crossdomain_offcanvas_gnn_v2;triggercf;prg-wpo-follow:1;DNN_AutoDetectedCity:Bengaluru North;L2EEDemoteReason:NotDemoted;UserProfileActionSignal:2;BingRecoCode:Success;DNNuserState:karnataka;Click4d:0;UserHasAgeOrGender_0_1_0_3;StrongDemotionV2Trigger:0;IsIMorPubFollowUser:1;click84d_29;UTctr;RecoSource:Sage_;UserHasAge;UserGroupId:3_3_6_5_2_259221_234616;prg-wpo-auto2:1;ifp-4s:1;IMExplicitDislikeUser:1;prg-wpo-cmtif:1;CGShowNews4:1;StableIdCS:CF9A1151CBDBF01F84B09236FFFFFFFF;ExplcitFollowCohort:2;CGShowTopstories:1;IsRecoNewUser:1;GANews1:1;GrayClick4d:0;TSv3:1;FixIds:BB1iMK7g;DNNTileId:tdr1;click90d_30;GroupIdCS:3_3_4_3_2_259221_269203;TPUser;location:F715D7287670238A8344804E0D5AED47#en-in;GrayV6FansScore:0.0000;DNN_state:;CGShowNews1:1;wpo-warmuser:1;HasPersRecall;DNNuserCountry:india;UserHasGender;ind_topic_li_v4:1;HasClientIpUserProfile:1;click56d_24;tmpl-tmpltlayout;click_61;XAI:100_0;triggercf_3_ip2i_30d;GANone:1;IsIMFollowUser:1;XFeed;DNNuserCity:bengaluru;RR:0;ClickCohort:2;DNN_AutoDetectedcountry:India;PageViewCountGt10;CGShowNews2:1;triggercf_2_crossdomain_offcanvas_gnn;triggercf_0_u2i_dwell_15;tmpl-1sboostntpriver;tmpl-boost-1s;BB1iNkLh;tmpl-place-place_demote:1;GrayV6FansScoreV2:0.0000;usq_text_v9:multcanvq_aa#en-in;UserHasActionSignal:1;DNN_city:;Expl:1;TileID:tdr1;tmpl-dcp-normal-1:1;SageUserStatus:3_0_0_5;IMArticleNegUser:0;usq_nrt_v5:a6ec88e7-9a88-4799-8952-2dd004e11669#en-in;IMBoostCount:2_0_2;DNN_AutoDetectedstate:Karnataka;user_cluster_v4:2024-02-22.40406#en-in;click28d_9;MainFeedsColdUser:false;ACTION:Follow:Interest;tmpl-tmpltlayout;tmpl-newtech;ifp-4s:1;GANone:1;prg-wpo-cmtif:1;prg-wpo-tsclpinf:1;prg-wpo-auto2:1;prg-wpo-follow:1;wpo-warmuser:1;tmpl-place-place_demote:1;CGShowNews1:1;CGShowTopstories:1;CGShowNews2:1;CGShowNews3:1;CGShowNews4:1;tmpl-dcp-normal-1:1;tmpl-TravelDestinationCard:1;GANews1:1;prg-show-bellcm-30d:1;
+x-wpo-activityId: 65D9762D-DC6F-4F97-B16D-C3A7E9B4EFA0|2024-02-24T04:53:01.6437288Z|fabric_wpo|KOC2|WPO_44
+DDD-FeedNewsItemCount: 41
+DDD-FeatureSet: 0,Msn.OneDataService.Search.FeatureTracker.Models.NewsFeedFeature:QwAA;
+DDD-ActivityId: 65d9762d-dc6f-4f97-b16d-c3a7e9b4efa0
+DDD-StrategyExecutionLatency: 00:00:00.4997435
+DDD-DebugId: 65d9762d-dc6f-4f97-b16d-c3a7e9b4efa0|2024-02-24T04:53:01.6731074Z|fabric_ntpfeed|KOC2|NtpFeed_232
+DDD-Auth-Features: MuidStateOrigin:MuidFromCookie
+OneWebServiceLatency: 502
+X-MSEdge-ResponseInfo: 502
+Accept-CH: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+X-Ceto-ref: 65d9762d7b3d4a1fbc756968c06e2ee2|AFD:65d9762d7b3d4a1fbc756968c06e2ee2|2024-02-24T04:53:01.164Z
+X-MSEdge-Ref: Ref A: C2B5DA3CF74D404CA65E620918378B53 Ref B: SIN221080713005 Ref C: 2024-02-24T04:53:01Z
+Expires: Sat, 24 Feb 2024 04:53:01 GMT
+Date: Sat, 24 Feb 2024 04:53:01 GMT
+Transfer-Encoding:  chunked
+Connection: keep-alive
+Connection: Transfer-Encoding
+Set-Cookie: _C_ETH=1; expires=Fri, 23 Feb 2024 04:53:01 GMT; domain=.msn.com; path=/; secure; httponly
+Set-Cookie: _C_Auth=
+Set-Cookie: _EDGE_S=SID=0EE3F89FD73969BA3793ECB0D612686E&mkt=en-in&ui=en-us; domain=.msn.com; path=/; httponly
+Akamai-Request-BC: [a=23.41.186.109,b=1289071888,c=g,n=IN_TN_CHENNAI,o=20940],[a=131.253.33.203,c=o]
+Server-Timing: clientrtt; dur=296, clienttt; dur=613, origin; dur=612 , cdntime; dur=1
+Akamai-Cache-Status: NotCacheable from child
+Akamai-Server-IP: 23.41.186.109
+Akamai-Request-ID: 4cd5ad10
+Access-Control-Allow-Methods: PUT,PATCH,POST,GET,OPTIONS,DELETE
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://ntp.msn.com
+X-AS-SuppressSetCookie: 1
+Cache-Control: private, max-age=0
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":0.1}
+Timing-Allow-Origin: *
+Akamai-GRN: 0.6dba2917.1708750381.4cd5ad10
+Vary: Origin
+

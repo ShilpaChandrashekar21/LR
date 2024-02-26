@@ -1,0 +1,17 @@
+[t14]
+FileName1=t14_ntp.json
+URL1=https://assets.msn.com/service/news/feed/pages/ntp?User=m-3FB288A77D7E6FC13A379A107C2C6E33&activityId=03268357-B8FD-48AD-A89F-9D2048D6B1BB&apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&audienceMode=adult&caller=bgtask&cm=en-in&column=c3&contentType=article,video,slideshow,webcontent&dhp=1&duotone=true&edgExpMask=131072&infopaneCount=17&it=app&memory=8&newsSkip=0&newsTop=48&ocid=anaheim-ntp-feeds&overlay=0&pgc=41&prerender=1&promotion=1697179646278_l_1_2&scn=APP_ANON&timeOut=2000&vpSize=1232x572&wposchema=byregion
+Total=4
+ContentType=application/json
+SnapshotXmlFile=snapshot_14.xml
+RequestHeaderFile=t14_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t14_ResponseHeader.txt
+FileName2=t14_th.jfif
+URL2=https://th.bing.com/th?id=ORMS.5e55589b76c5f9c873cc58993dc82a12&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0
+FileName3=t14_th.jfif
+URL3=https://th.bing.com/th?id=ORMS.eb68e0c16d053c7036f4ce07c217c332&pid=Wdp&w=300&h=156&qlt=90&c=1&rs=1&dpr=1&p=0
+FileName4=t14_th.jfif
+URL4=https://th.bing.com/th?id=ORMS.a7a94bd9add6a0253d1280e0615e5105&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0
+[ProtocolInfo]
+ProtocolId=QTWeb

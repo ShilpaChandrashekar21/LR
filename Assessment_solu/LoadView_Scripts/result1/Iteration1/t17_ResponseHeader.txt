@@ -1,0 +1,16 @@
+HTTP/2.0 200
+Status: 200
+access-control-allow-credentials: true
+access-control-allow-max-age: 1728000
+access-control-expose-headers: X-Geoip, X-Botmode
+cache-control: no-cache, no-store, must-revalidate
+content-security-policy: frame-ancestors 'none';
+content-type: application/json; charset=utf-8
+pragma: no-cache
+server: foxy/3.2
+x-botmode: no
+x-frame-options: DENY
+x-geoip: IN;TN;Chennai
+content-length: 151
+date: Sat, 24 Feb 2024 06:52:54 GMT
+

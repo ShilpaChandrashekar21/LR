@@ -1,0 +1,22 @@
+HEAD /statics/icons/favicon.ico HTTP/1.1
+Host: assets.msn.com
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://ntp.msn.com
+X-Edge-Shopping-Flag: 1
+Sec-MS-GEC: 4213BCC40069A0A4E8CE7276084076070701EF169C6AA24DA0210C6B96614FA1
+Sec-MS-GEC-Version: 1-121.0.2277.128
+X-Client-Data: eyIxIjoiMTUiLCIxMCI6IlwibytLcmZ4UVhyOUExNE9nRDBNa3VKS0ttK2tXa1ZYU3kzZUMzNStGampUMD1cIiIsIjIiOiIxIiwiMyI6IjAiLCI0IjoiLTY5MjY2NTgzNjMzNDA0OTQxNzciLCI1IjoiXCI4cnFkd2VRTDdhMmtMNjJmWUlOaDRsQmx6VnpOQzJyaHc0K0tkRkZod05rPVwiIiwiNiI6InN0YWJsZSIsIjciOiI5NDQ4OTI4MDUxMyIsIjkiOiJkZXNrdG9wIn0=
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ntp.msn.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+

@@ -1,0 +1,80 @@
+[
+    {
+        "actionName": "Login",
+        "steps": [
+            {
+                "stepId": "STEP9",
+                "stepName": "Submit Data: signon",
+                "infFile": "t2.inf",
+                "time": 1708943195347
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "category_selection",
+        "steps": [
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: DOGS",
+                "infFile": "t3.inf",
+                "time": 1708943196519
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "product_selection",
+        "steps": [
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: K9-BD-01",
+                "infFile": "t4.inf",
+                "time": 1708943197079
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "cart",
+        "steps": [
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: addItemToCart",
+                "infFile": "t5.inf",
+                "time": 1708943197856
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "checkout",
+        "steps": [
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: newOrderForm",
+                "infFile": "t6.inf",
+                "time": 1708943198601
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "order",
+        "steps": [
+            {
+                "stepId": "STEP14",
+                "stepName": "Submit Data: newOrder",
+                "infFile": "t7.inf",
+                "time": 1708943199627
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Submit Data: submitOrder",
+                "infFile": "t8.inf",
+                "time": 1708943200576
+            }
+        ],
+        "transactions": []
+    }
+]

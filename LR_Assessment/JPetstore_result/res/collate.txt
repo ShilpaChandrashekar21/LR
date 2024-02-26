@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=D:\LoadRunnerScripts\Assessment\LR_Assessment\controller\Loadtest.lrs
+Completed=0

@@ -1,0 +1,9 @@
+HTTP/2.0 200
+Status: 200
+cache-control: max-age=0, no-cache, no-store, must-revalidate
+content-length: 385
+content-type: text/xml; charset=utf-8
+x-cache: CONFIG_NOCACHE
+x-msedge-ref: Ref A: 2FDD77CF350840E7A12C923FEAD5A9A0 Ref B: MAA02EDGE0317 Ref C: 2024-02-24T06:52:50Z
+date: Sat, 24 Feb 2024 06:52:50 GMT
+

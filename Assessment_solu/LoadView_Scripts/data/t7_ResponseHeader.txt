@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Type: image/x-icon
+ETag: "b1a1d42024fa6e32ed87f61fd9507274:1574197118.459201"
+Last-Modified: Tue, 19 Nov 2019 20:58:17 GMT
+Server: AkamaiNetStorage
+Content-Encoding: gzip
+Date: Sat, 24 Feb 2024 04:53:00 GMT
+Content-Length: 20
+Connection: keep-alive
+Akamai-Request-BC: [a=23.41.186.109,b=1289071377,c=g,n=IN_TN_CHENNAI,o=20940]
+Server-Timing: clientrtt; dur=262, clienttt; dur=1, origin; dur=0 , cdntime; dur=1
+Akamai-Cache-Status: Hit from child
+Akamai-Server-IP: 23.41.186.109
+Akamai-Request-ID: 4cd5ab11
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://ntp.msn.com
+Cache-Control: public, max-age=31536000
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":0.1}
+Timing-Allow-Origin: *
+Akamai-GRN: 0.6dba2917.1708750380.4cd5ab11
+Vary: Origin
+

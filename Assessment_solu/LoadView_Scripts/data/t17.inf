@@ -1,0 +1,13 @@
+[t17]
+FileName1=t17.html
+URL1=https://telemetry.jivosite.com/w
+Total=2
+RequestHeaderFile=t17_RequestHeader.txt
+RequestBodyFile=t17_RequestBody.txt
+ResponseHeaderFile=t17_ResponseHeader.txt
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_17.xml
+FileName2=t17_analytics.html
+URL2=https://www.google-analytics.com/analytics.js
+[ProtocolInfo]
+ProtocolId=QTWeb

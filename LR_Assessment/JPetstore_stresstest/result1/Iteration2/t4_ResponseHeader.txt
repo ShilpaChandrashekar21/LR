@@ -1,0 +1,12 @@
+HTTP/2.0 200
+Status: 200
+date: Mon, 26 Feb 2024 10:26:36 GMT
+content-type: text/html;charset=UTF-8
+cf-cache-status: DYNAMIC
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=1C%2FSu%2FbzrHU%2FkXkHf6%2BSIYBMkcqcil0xsgEB9FxjQRVJiOQyG9vNVm%2FD7stfg0fouABbhYu8JJXCLcna8YyUGGGGMs8JJy870PItZUcqS4ntBuaquFsOIRJdpwOENLX3jUCCwRhZi0jEkQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 85b77da3e8745fa9-SIN
+content-encoding: gzip
+alt-svc: h3=":443"; ma=86400
+

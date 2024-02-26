@@ -1,0 +1,13 @@
+[t37]
+FileName1=t37.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update
+Total=2
+RequestHeaderFile=t37_RequestHeader.txt
+RequestBodyFile=t37_RequestBody.txt
+ResponseHeaderFile=t37_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_37.xml
+FileName2=t37_embed-public.min.html
+URL2=https://www.loadview-testing.com/wp-content/plugins/embed-any-document/js/embed-public.min.js?ver=2.7.4
+[ProtocolInfo]
+ProtocolId=QTWeb

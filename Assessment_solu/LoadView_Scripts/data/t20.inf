@@ -1,0 +1,17 @@
+[t20]
+FileName1=t20_5krV1CifaF.json
+URL1=https://node-ya-9.jivosite.com/widget/status/838424/5krV1CifaF?rnd=0.6998953374747459
+Total=4
+ContentType=application/json
+SnapshotXmlFile=snapshot_20.xml
+RequestHeaderFile=t20_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t20_ResponseHeader.txt
+FileName2=t20_init.d13acf0cca180e635287.html
+URL2=https://web-sdk.smartlook.com/es6/init.d13acf0cca180e635287.js
+FileName3=t20_bundle_en_US.html
+URL3=https://code.jivosite.com/js/bundle_en_US.js?rand=1708510179
+FileName4=t20_widget.css
+URL4=https://code.jivosite.com/css/3f162a1/widget.css
+[ProtocolInfo]
+ProtocolId=QTWeb

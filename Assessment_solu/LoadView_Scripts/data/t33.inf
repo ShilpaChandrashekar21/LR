@@ -1,0 +1,13 @@
+[t33]
+FileName1=t33.html
+URL1=https://notifier-configs.airbrake.io/2020-06-18/config/90109/config.json?&notifier_name=airbrake-js%2Fbrowser&notifier_version=2.1.8&os=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F121.0.0.0%20Safari%2F537.36%20Edg%2F121.0.0.0&language=JavaScript
+Total=2
+RequestHeaderFile=t33_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t33_ResponseHeader.txt
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_33.xml
+FileName2=t33_otSDKStub.html
+URL2=https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,6 @@
+"[{\"age\":65,\"body\":{\"elapsed_time\":979,\"method\":\"GET\",\"phase\":\"application\",\"pro"
+"tocol\":\"http/1.1\",\"referrer\":\"https://www.loadview-testing.com/demo/\",\"sampling_fracti"
+"on\":1.0,\"server_ip\":\"162.159.135.42\",\"status_code\":403,\"type\":\"http.error\"},\"type\""
+":\"network-error\",\"url\":\"https://www.loadview-testing.com/wp-content/plugins/sitepress-mul"
+"tilingual-cms/res/flags/de.png\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) Ap"
+"pleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0\"}]"

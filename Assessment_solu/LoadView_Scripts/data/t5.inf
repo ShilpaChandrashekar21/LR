@@ -1,0 +1,15 @@
+[t5]
+FileName1=t5.html
+URL1=https://bzib.nelreports.net/api/report?cat=bingbusiness
+Total=3
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t5_ResponseHeader.txt
+ContentType=font/ttf
+SnapshotXmlFile=snapshot_5.xml
+FileName2=t5_JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.html
+URL2=https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf
+FileName3=t5_modules.html
+URL3=https://www.loadview-testing.com/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.woff
+[ProtocolInfo]
+ProtocolId=QTWeb

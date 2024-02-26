@@ -1,0 +1,14 @@
+[product_selection]
+SnapshotIndex=I1_product_selection
+[category_selection]
+SnapshotIndex=I1_category_selection
+[cart]
+SnapshotIndex=I1_cart
+[order]
+SnapshotIndex=I1_order
+[Login]
+SnapshotIndex=I1_Login
+[vuser_init]
+SnapshotIndex=I1_vuser_init
+[checkout]
+SnapshotIndex=I1_checkout

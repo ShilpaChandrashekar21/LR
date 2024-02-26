@@ -1,0 +1,11 @@
+[t44]
+FileName1=t44.txt
+URL1=https://www.google-analytics.com/j/collect?v=1&_v=j101&a=379315400&t=pageview&_s=1&dl=https%3A%2F%2Fwww.loadview-testing.com%2Fdemo%2Feast%2F&ul=en-us&de=UTF-8&dt=Live%20Demos%20-%20LoadView%20Performance%20Engineering%20Team&sd=24-bit&sr=1280x720&vp=1257x606&je=0&_u=QACAAUABAAAAACAAI~&jid=1634047200&gjid=1753961534&cid=37313771.1708749727&tid=UA-4173828-16&_gid=1623097521.1708749729&_r=1&gtm=457e42l0za220&gcd=13l3l3l3l1&dma=0&jsscut=1&z=1884209775
+Total=1
+RequestHeaderFile=t44_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t44_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_44.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

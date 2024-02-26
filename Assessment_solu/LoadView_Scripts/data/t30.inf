@@ -1,0 +1,13 @@
+[t30]
+FileName1=t30_settings.json
+URL1=https://calendly.com/api/booking/settings
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_30.xml
+RequestHeaderFile=t30_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t30_ResponseHeader.txt
+FileName2=t30_DigiCertSHA2ExtendedValidationServerCA.cer
+URL2=http://cacerts.digicert.com/DigiCertSHA2ExtendedValidationServerCA.crt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,14 @@
+[
+    {
+        "actionName": "vuser_init",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: jpetstore.aspectran.com",
+                "infFile": "t1.inf",
+                "time": 1708943185322
+            }
+        ],
+        "transactions": []
+    }
+]

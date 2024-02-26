@@ -1,0 +1,37 @@
+HTTP/2.0 200
+Status: 200
+content-type: application/json; charset=utf-8
+content-encoding: gzip
+ddd-authenticatedwithjwtflow: False
+ddd-usertype: AnonymousMuid
+ddd-tmpl: IsIMFollowUser:1;DNN_AutoDetectedcountry:India;ClickCohort:2;FixIdsL2:0;DNN_country:;UserHasAge;UserCohortByEngagement28d:2;tmpl-dcp-normal-1:1;click90d_30;ACTION:Follow:Interest;DNN_city:;GrayFanScore:0.0123;MyFeed;MainFeedsColdUser:false;TaggingUserActionSignal;XFeed;PageViewCountGt10;DNN_AutoDetectedstate:Karnataka;UTctr;triggercf_2_crossdomain_offcanvas_gnn;triggercf_3_ip2i_30d;usq_nrt_v5:a6ec88e7-9a88-4799-8952-2dd004e11669#en-in;StrongDemotionV2Trigger:0;com_topic_li_v4:1;DNNuserCountry:india;prg-show-bellcm-30d:1;L2EEDemoteReason:KeepInControlGroup;IMArticleNegUser:0;CGShowTopstories:1;com_topic_li_v2:1;triggercf_lt_inc;UserProfileActionSignal:2;triggercf;tmpl-esp-shopping:1;CGShowNews1:1;GroupIdCS:3_3_4_3_2_259221_269203;CGShowNews3:1;triggercf_0_u2i_dwell_15;wpo-warmuser:1;IsIMorPubFollowUser:1;tmpl-TravelDestinationCard:1;triggercf_2_crossdomain_offcanvas_gnn_v2;UserHasAgeOrGender_0_1_0_3;user_cluster_v4:2024-02-23.40321#en-in;click84d_29;RecoSource:Sage_;XAI:100_0;prg-wpo-tsclpinf:1;tmpl-boost-1s;tmpl-newtech;Click4d:0;GrayV6FansScoreV2:0.0000;TileID:tdr1;HasClientIpUserProfile:1;prg-wpo-cmtif:1;eePosList:0;tmpl-1sboostntpriver;prg-wpo-follow:1;user_cluster_v6:2024-02-22.62524#en-in;IMExplicitDislikeUser:1;tmpl-tmpltlayout;UserGroupId:3_3_6_5_2_259221_234616;UTnegImpr;FixIds:0;GA-Money:1;HasPersRecall;GrayClick4d:0;L2OneSvcUniFeatTun:;DNNuserCity:bengaluru;click_61;triggercf_0_1min_mhot;click56d_24;DNN_AutoDetectedCity:Bengaluru North;IMBoostCount:2_0_2;ULatLon12.95:77.61;ifp-4s:1;UserHasActionSignal:1;SageUserStatus:3_0_0_5;TPUser;CGShowNews4:1;BingRecoCode:Success;Expl:1;IsRecoNewUser:1;triggercf_1_i2i_mhot_v1;prg-wpo-auto2:1;click28d_9;CGShowNews2:1;DNNTileId:tdr1;ind_topic_li_v4:1;RR:0;ExplcitFollowCohort:2;UserHasGender;DNN_state:;GrayV6FansScore:0.0000;StableIdCS:CF9A1151CBDBF01F84B09236FFFFFFFF;DNNuserState:karnataka;GANews1:1;usq_text_v9:multcanvq_aa#en-in;location:F715D7287670238A8344804E0D5AED47#en-in;TSv3:1;tmpl-tmpltlayout;tmpl-newtech;ifp-4s:1;prg-wpo-cmtif:1;prg-wpo-tsclpinf:1;prg-wpo-auto2:1;prg-wpo-follow:1;wpo-warmuser:1;tmpl-esp-shopping:1;CGShowNews1:1;CGShowTopstories:1;CGShowNews2:1;CGShowNews3:1;CGShowNews4:1;GA-Money:1;tmpl-dcp-normal-1:1;tmpl-TravelDestinationCard:1;GANews1:1;prg-show-bellcm-30d:1;
+x-wpo-activityid: 65D99243-7518-44C2-97AA-AE25D6363889|2024-02-24T06:52:52.3476993Z|fabric_wpo|KOC2|WPO_3
+ddd-feednewsitemcount: 41
+ddd-featureset: 0,Msn.OneDataService.Search.FeatureTracker.Models.NewsFeedFeature:QwAA;
+ddd-activityid: 65d99243-7518-44c2-97aa-ae25d6363889
+ddd-strategyexecutionlatency: 00:00:00.5323630
+ddd-debugid: 65d99243-7518-44c2-97aa-ae25d6363889|2024-02-24T06:52:52.4113854Z|fabric_ntpfeed|KOC2|NtpFeed_585
+ddd-auth-features: MuidStateOrigin:MuidFromCookie
+onewebservicelatency: 535
+x-msedge-responseinfo: 535
+x-ceto-ref: 65d99243bc30461ba4ed458248e10782|AFD:65d99243bc30461ba4ed458248e10782|2024-02-24T06:52:51.878Z
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+x-msedge-ref: Ref A: 18B4AEE2E90147F78F6A4D9278AA88B6 Ref B: SIN221080713023 Ref C: 2024-02-24T06:52:51Z
+expires: Sat, 24 Feb 2024 06:52:52 GMT
+date: Sat, 24 Feb 2024 06:52:52 GMT
+set-cookie: _C_ETH=1; expires=Fri, 23 Feb 2024 06:52:51 GMT; domain=.msn.com; path=/; secure; httponly
+set-cookie: _C_Auth=
+set-cookie: _EDGE_S=SID=1B9EED2E20A26BCE04CAF90121746A93&mkt=en-in&ui=en-us; domain=.msn.com; path=/; httponly
+akamai-request-bc: [a=23.41.186.117,b=362028583,c=g,n=IN_TN_CHENNAI,o=20940],[a=131.253.33.203,c=o]
+server-timing: clientrtt; dur=15, clienttt; dur=643, origin; dur=641 , cdntime; dur=2
+akamai-cache-status: NotCacheable from child
+akamai-server-ip: 23.41.186.117
+akamai-request-id: 15941e27
+x-as-suppresssetcookie: 1
+cache-control: private, max-age=0
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":0.1}
+timing-allow-origin: *
+akamai-grn: 0.75ba2917.1708757571.15941e27
+vary: Origin
+

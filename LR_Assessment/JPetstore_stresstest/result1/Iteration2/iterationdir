@@ -1,0 +1,12 @@
+[cart]
+SnapshotIndex=I2_cart
+[category_selection]
+SnapshotIndex=I2_category_selection
+[Login]
+SnapshotIndex=I2_Login
+[checkout]
+SnapshotIndex=I2_checkout
+[order]
+SnapshotIndex=I2_order
+[product_selection]
+SnapshotIndex=I2_product_selection

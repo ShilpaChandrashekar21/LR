@@ -1,0 +1,11 @@
+[t8]
+FileName1=t8_inlinks.json
+URL1=https://jscloud.net/x/26432/inlinks.js
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

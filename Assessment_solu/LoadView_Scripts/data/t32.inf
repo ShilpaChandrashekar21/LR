@@ -1,0 +1,11 @@
+[t32]
+FileName1=t32_experiments.json
+URL1=https://calendly.com/api/booking/experiments?event_type_uuid=6f018153-14f4-4cf0-848a-1c3472da7aae
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_32.xml
+RequestHeaderFile=t32_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t32_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

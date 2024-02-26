@@ -1,0 +1,16 @@
+[t3]
+SnapshotXmlFile=snapshot_3.xml
+ContentType=text/html
+StepName=Url: demo
+Total=2
+FileName1=t3.html
+FileName2=t2_1_SSR-extension.UNK
+RequestHeaderFile=t3_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t3_ResponseHeader.txt
+RawStepEndTime=1708756911049
+RawStepName=demo
+RequestBodyFile=t3_RequestBody.txt
+RawStepStartTime=1708756910524
+URL1=https://www.loadview-testing.com/demo/
+URL2=https://ntp.msn.com/bundles/v1/edgeChromium/latest/SSR-extension.889768d4c088b9acdb97.js

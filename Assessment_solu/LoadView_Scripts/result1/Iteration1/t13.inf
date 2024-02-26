@@ -1,0 +1,18 @@
+[t13]
+FileName2=t7_2_favicon.ico
+RawStepEndTime=1708756913519
+RequestBodyFile=t13_RequestBody.txt
+RawStepName=Rewards
+ContentType=application/json
+URL1=https://assets.msn.com/service/News/Users/me/Rewards?apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&activityId=03268357-B8FD-48AD-A89F-9D2048D6B1BB&ocid=rewards-peregrine&cm=en-in&it=app&user=m-3FB288A77D7E6FC13A379A107C2C6E33&scn=APP_ANON&version=2
+URL2=https://assets.msn.com/statics/icons/favicon.ico
+URL3=https://ntp.msn.com/bundles/v1/edgeChromium/latest/SSR-extension.889768d4c088b9acdb97.js
+ResponseHeaderFile=t13_ResponseHeader.txt
+SnapshotXmlFile=snapshot_14.xml
+RequestHeaderFile=t13_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1708756913369
+Total=3
+StepName=Url: Rewards
+FileName1=t13.json
+FileName3=t2_1_SSR-extension.UNK

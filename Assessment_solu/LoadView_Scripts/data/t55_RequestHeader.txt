@@ -1,0 +1,22 @@
+POST /api/booking/invitees HTTP/1.1
+Host: calendly.com
+Connection: keep-alive
+Content-Length: 1693
+sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"
+X-CSRF-Token: aBPe5qWhdJyJQHQ6KUEaW2PQ1q40Vd-VWgJxUAvxptL0I-0QCMps3VFdg7N5RbNYBWdqqW0-jZJCutB099G14A
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+Content-Type: application/json
+Accept: application/json, text/plain, */*
+X-Requested-With: XMLHttpRequest
+Booking-Request-ID: Ubte5bcA9wjUQQp2sUVpKZGfHH2-VGl_MEoT%7C2024-02-29T11%3A30%3A00%2B05%3A30%7C6f018153-14f4-4cf0-848a-1c3472da7aae%7Cshilpa
+sec-ch-ua-platform: "Windows"
+Origin: https://calendly.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://calendly.com/asia-pacific-middle-east-africa/discovery-call/2024-02-29T11:30:00+05:30?embed_domain=www.loadview-testing.com&embed_type=Inline&month=2024-02&date=2024-02-29
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: __cf_bm=l3yVrdbTaVBtIQO1BSlcSLTa708F8zXCwXDSKPrzuGs-1708750427-1.0-AakUxBO2tniEpomM+ulKf/k5Bvh3PC7lxTR2BBsRCmIhjz5LqTk/3Ha1IsAR8Fw0u4LUPiZEB9SAInBIwhujPd0=; __cfruid=21b4115cbd0ad7a1f6a783c0e81d65c631d5cb48-1708750428
+

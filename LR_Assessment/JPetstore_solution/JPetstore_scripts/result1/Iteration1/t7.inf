@@ -1,0 +1,13 @@
+[t7]
+SnapshotXmlFile=snapshot_7.xml
+ContentType=text/html
+StepName=Submit Data: newOrder
+Total=1
+FileName1=t7.html
+RequestHeaderFile=t7_RequestHeader.txt
+ResponseHeaderFile=t7_ResponseHeader.txt
+RawStepEndTime=1708941026894
+RawStepName=newOrder
+RequestBodyFile=t7_RequestBody.txt
+RawStepStartTime=1708941026288
+URL1=https://jpetstore.aspectran.com/order/newOrder

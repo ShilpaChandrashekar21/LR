@@ -1,0 +1,18 @@
+[t17]
+FileName2=t7_2_favicon.ico
+RawStepEndTime=1708756915494
+RequestBodyFile=t17_RequestBody.txt
+RawStepName=5krV1CifaF
+ContentType=application/json
+URL1=https://node-ya-9.jivosite.com/widget/status/838424/5krV1CifaF?rnd=0.6998953374747459
+URL2=https://assets.msn.com/statics/icons/favicon.ico
+URL3=https://ntp.msn.com/bundles/v1/edgeChromium/latest/SSR-extension.889768d4c088b9acdb97.js
+ResponseHeaderFile=t17_ResponseHeader.txt
+SnapshotXmlFile=snapshot_18.xml
+RequestHeaderFile=t17_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1708756914727
+Total=3
+StepName=Url: 5krV1CifaF
+FileName1=t17.json
+FileName3=t2_1_SSR-extension.UNK

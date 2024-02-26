@@ -1,0 +1,13 @@
+[t9]
+FileName1=t9.html
+URL1=https://a.nel.cloudflare.com/report/v3?s=HmjAMs4wx0w61mJ74UUsktj%2FzrnFqZKYIQnwI%2F2fs0b4TJRZ036MPTdbijEI7bwhd6TI%2BjdO%2BJQ8yAyYz%2BCKivQ2ffeiCXQeBfIN%2FdFkFKA95EEH8TVoPegD3cSJYg4jhzQvPIqrTumvFA%3D%3D
+Total=2
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t9_ResponseHeader.txt
+ContentType=image/png
+SnapshotXmlFile=snapshot_9.xml
+FileName2=t9_cropped-loadview-load-curve-32x32.png
+URL2=https://www.loadview-testing.com/wp-content/uploads/cropped-loadview-load-curve-32x32.png
+[ProtocolInfo]
+ProtocolId=QTWeb

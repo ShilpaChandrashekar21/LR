@@ -1,0 +1,110 @@
+[
+    {
+        "actionName": "vuser_init",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: v3",
+                "infFile": "t1.inf",
+                "time": 1708756909933
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: ntp",
+                "infFile": "t2.inf",
+                "time": 1708756910524
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: demo",
+                "infFile": "t3.inf",
+                "time": 1708756911064
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: crx",
+                "infFile": "t4.inf",
+                "time": 1708756911177
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Custom Request: report",
+                "infFile": "t5.inf",
+                "time": 1708756911665
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: report_2",
+                "infFile": "t6.inf",
+                "time": 1708756911956
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: inlinks.js",
+                "infFile": "t7.inf",
+                "time": 1708756912204
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: BBGeThK",
+                "infFile": "t8.inf",
+                "time": 1708756912281
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: BB1gzN7f",
+                "infFile": "t9.inf",
+                "time": 1708756912326
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: AA1cD26x",
+                "infFile": "t10.inf",
+                "time": 1708756912374
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: ntp_2",
+                "infFile": "t11.inf",
+                "time": 1708756913093
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: AA2qT4f",
+                "infFile": "t12.inf",
+                "time": 1708756913369
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: Rewards",
+                "infFile": "t13.inf",
+                "time": 1708756913534
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Custom Request: collect",
+                "infFile": "t15.inf",
+                "time": 1708756914545
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Custom Request: collect_2",
+                "infFile": "t16.inf",
+                "time": 1708756914727
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Url: 5krV1CifaF",
+                "infFile": "t17.inf",
+                "time": 1708756915508
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Url: config.json",
+                "infFile": "t18.inf",
+                "time": 1708756915696
+            }
+        ],
+        "transactions": []
+    }
+]

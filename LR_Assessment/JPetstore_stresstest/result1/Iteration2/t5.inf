@@ -1,0 +1,13 @@
+[t5]
+SnapshotXmlFile=snapshot_4.xml
+ContentType=text/html
+StepName=Url: addItemToCart
+Total=1
+FileName1=t5.html
+RequestHeaderFile=t5_RequestHeader.txt
+ResponseHeaderFile=t5_ResponseHeader.txt
+RawStepEndTime=1708943197791
+RawStepName=addItemToCart
+RequestBodyFile=t5_RequestBody.txt
+RawStepStartTime=1708943197096
+URL1=https://jpetstore.aspectran.com/cart/viewCart

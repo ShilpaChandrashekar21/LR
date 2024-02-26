@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunnerScripts\Assessment\Assessment_solu\LoadView_Scripts
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\loadrunnerscripts\assessment\assessment_solu\loadview_scripts\\logfile.log
+d:\loadrunnerscripts\assessment\assessment_solu\loadview_scripts\\combined_LoadView_Scripts.c
+d:\loadrunnerscripts\assessment\assessment_solu\loadview_scripts\\pre_cci.c
